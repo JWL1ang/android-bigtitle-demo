@@ -1,4 +1,4 @@
-# android-bigtitle-demo
+# android-largetitle-demo
 iOS 11 Large title on android
 <br/>
 <br/>
